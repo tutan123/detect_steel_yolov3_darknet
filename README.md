@@ -19,7 +19,7 @@
 ## 3.使用方法
 安装:
 
-    git clone https://github.com/SHERLOCKLS/detect_steel_darknetyolo
+    git clone https://github.com/tutan123/detect_steel_yolov3_darknet.git
     cd detect_steel_darknetyolo
     make -j
     pip install -r requirements.txt
