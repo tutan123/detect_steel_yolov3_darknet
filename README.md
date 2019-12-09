@@ -2,7 +2,10 @@
 ### 1)比赛地址
 [智能盘点—钢筋数量AI识别](https://www.datafountain.cn/competitions/332/details)
 ### 2)引用的代码 https://github.com/SHERLOCKLS/detect_steel_darknetyolo
-修改内容: 原来的代码少了data文件夹，使用的yolo-spp.cfg并不能用，改回yolo.cfg.
+修改内容: 
+	(1)原来的代码少了data文件夹，
+	(2)使用的yolo-spp.cfg并不能用，改回yolo.cfg.
+	(3)makefile 解开了一些mkdir创建文件夹的注释。
 
 ### 3)数据集链接 https://pan.baidu.com/share/init?surl=OgRtidoP9k4tSpsxVSe8JQ  提取码: hm9i
 
